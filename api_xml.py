@@ -1,7 +1,7 @@
 import urllib.request
 
-opens_api = '07cda32833838b3fddbe86cb7797e23a'
-headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
+maplight_api = '19525092ab4c20bbe5549e095d4ad379'
+headers = {'User-Agent':'tyty/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
 
 ss = ['109','110','111','112','113','114','115']
 for i in ss:
